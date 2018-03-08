@@ -1,5 +1,6 @@
 # A Novel Sentence Similarity Model with Word Embedding based on Convolutional Neural Network
-The source codes of this paper, which was published on [Concurrency and Computation:Practice and Experience](http://onlinelibrary.wiley.com/doi/10.1002/cpe.4415/full).
+The paper was published on [Concurrency and Computation:Practice and Experience](http://onlinelibrary.wiley.com/doi/10.1002/cpe.4415/full).
+This is the experimental source codes in this paper.
 ## How to use
 Download pre-trained word embeddings from [GloVe](https://nlp.stanford.edu/projects/glove/).
 Then you need to change the directory of the word embeddings and self.len_of_word_vector (word vector dimension) in the model.py. 
